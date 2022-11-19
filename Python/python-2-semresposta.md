@@ -44,7 +44,7 @@ Saída
 
 ## Exercício 4
 
- Um palíndromo é uma seqüência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: OSSO e OVO são palíndromos. Faça um programa que uma palavra ao usuário e retorne dizendo se são palíndromos ou não.
+ Um palíndromo é uma sequência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: OSSO e OVO são palíndromos. Faça um programa que uma palavra ao usuário e retorne dizendo se são palíndromos ou não.
 
 
 ## Informações
