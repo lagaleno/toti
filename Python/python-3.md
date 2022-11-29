@@ -1,4 +1,4 @@
-# Aula 21/11/2022 - Python
+# Aula 28/11/2022 - Python
 
 ## Praticar
 - Loops
